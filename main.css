@@ -39,3 +39,24 @@
 .thumbnail {
     padding-bottom: 40px;   
 }
+
+
+.text {
+    position: relative;
+    margin-top: 90px;
+}
+
+.text h1 {
+    font-family: georgia;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+.text p {
+    font-family: georgia;
+    font-size: 20px;
+    padding: 30px;
+    margin-top: -20px; 
+}
+
